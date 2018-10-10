@@ -1,0 +1,10 @@
+# Library dependencies for the python code.  You need to install these with
+# `pip install -r requirements.txt` before you can run this.
+
+# crawling & processing data libraries.
+selenium
+bs4
+pandas
+
+# download chromedriver in http://chromedriver.chromium.org/downloads
+chromedriver
